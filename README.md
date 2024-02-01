@@ -6,3 +6,5 @@ This is a project work i worked on for my first semester of second year in schoo
 - Keep the whole folder in the localhost directory
 - Run setup.php to create the database for the project
 - Run index.php to use the project
+
+## Stay tuned, will be more on it soon
