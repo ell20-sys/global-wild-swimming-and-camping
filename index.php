@@ -7,7 +7,7 @@ include_once 'php-processes/config.php';
 <html lang="en">
 
 <head>
-  <title>Home | GWSC</title>
+  <title>Home - GWSC</title>
   <link rel="stylesheet" href="css/styles.css">
   <!--Slider linking start-->
   <script src="sliderengine/jquery.js"></script>
